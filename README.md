@@ -10,9 +10,9 @@ I'm just a regular 16 year old, armed with a internet connection, and a computer
 ## Things I do
 WIP!!! TLDR: Godot, Art, Writing, Blogging, Journalling.
 ## Contact
-Email : [elbowsparse@gmail.com](mailto:elbowsparse@gmail.com?subject=Hello!&body=Hey%20there!%0A)
-Discord : `winnerwind`
-More on [my website](https://winnerwind.github.io/contact)
+- Email : [elbowsparse@gmail.com](mailto:elbowsparse@gmail.com?subject=Hello!&body=Hey%20there!%0A)
+- Discord : `winnerwind`
+- More on [my website](https://winnerwind.github.io/contact)
 
 <!--
 **WinnerWind/WinnerWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
