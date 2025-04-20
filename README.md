@@ -8,7 +8,15 @@ I'm just a regular 16 year old, armed with a internet connection, and a computer
 - 🍄 Fun Fact: This is the first time I've put my birthday on the internet.
 
 ## Things I do
-WIP!!! TLDR: Godot, Art, Writing, Blogging, Journalling.
+<sub> Yes, there were so many I had to write a block diagram for it </sub>
+```mermaid
+block-beta
+      columns 4
+      Gamedev:4 
+      Journalling:4
+      Gaming:3 Guitar 
+      Drawing:2 A["Contributing to Godot"] B["Composing Music"]
+```
 ## Contact
 - Email : [elbowsparse@gmail.com](mailto:elbowsparse@gmail.com?subject=Hello!&body=Hey%20there!%0A)
 - Discord : `winnerwind`
