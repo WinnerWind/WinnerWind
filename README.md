@@ -21,6 +21,7 @@ block-beta
 - Email : [elbowsparse@gmail.com](mailto:elbowsparse@gmail.com?subject=Hello!&body=Hey%20there!%0A)
 - Discord : `winnerwind`
 - More on [my website](https://winnerwind.github.io/contact)
+- I actually have another website, https://winnerwind.in
 
 <!--
 **WinnerWind/WinnerWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
