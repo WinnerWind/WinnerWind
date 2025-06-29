@@ -8,16 +8,9 @@ I'm just a regular 16 year old, armed with a internet connection, and a computer
 - 🎂 Birthday: 16th February!
 - 🍄 Fun Fact: This is the first time I've put my birthday on the internet.
 
-## Things I do
-<sub> Yes, there were so many I had to write a block diagram for it </sub>
-```mermaid
-block-beta
-      columns 4
-      Gamedev:4 
-      Journalling:4
-      Gaming:3 Guitar 
-      Drawing:2 A["Contributing to Godot"] B["Composing Music"]
-```
+## guthib
+![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerwind&layout=compact&theme=gruvbox)
 ## Contact
 - Email : [elbowsparse@gmail.com](mailto:elbowsparse@gmail.com?subject=Hello!&body=Hey%20there!%0A)
 - Discord : `winnerwind`
