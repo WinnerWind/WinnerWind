@@ -12,9 +12,6 @@ I'm just a regular 16 year old, armed with a internet connection, and a computer
 ![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerwind&layout=compact&theme=gruvbox)
 ## Contact
-- Email : [elbowsparse@gmail.com](mailto:elbowsparse@gmail.com?subject=Hello!&body=Hey%20there!%0A)
-- Discord : `winnerwind`
-- More on [my website](https://winnerwind.github.io/contact)
 - I actually have another website, https://winnerwind.in
 
 <!--
