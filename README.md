@@ -9,7 +9,7 @@ I'm just a regular 16 year old, armed with a internet connection, and a computer
 - 🍄 Fun Fact: This is the first time I've put my birthday on the internet.
 
 ## guthib
-![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox)
+![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerwind&layout=compact&theme=gruvbox)
 ## Contact
 - I actually have another website, https://winnerwind.in
