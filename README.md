@@ -5,7 +5,7 @@
 <sub><p align="right">WinnerWind cc. 2025</p></sub>
 <h3>”””</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=900&duration=2000&pause=2500&color=689D6A&vCenter=true&random=true&width=500&lines=No%2C+I'm+not+an+anime+girl.;What+is+love%3F;Syntax+Error!;hatsune+mike;Change+the+world+or+die+trying.;void+main()+%7B+print(%22stupid%22)+%7D;Made+in+China.)](https://winnerwind.in)
+<a href="https://winnerwind.in"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&duration=2000&pause=2500&color=689D6A&vCenter=true&random=true&width=500&lines=No%2C+I'm+not+an+anime+girl.;What+is+love%3F;Syntax+Error!;hatsune+mike;Change+the+world+or+die+trying.;void+main()+%7B+print(%22stupid%22)+%7D;Made+in+India." alt="Subtext" /></a>
 
 I'm just a regular 16 year old, armed with a internet connection, and a computer.
 ## About me
