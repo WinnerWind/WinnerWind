@@ -9,9 +9,8 @@
 
 I'm just a regular 16 year old, armed with an internet connection, and a computer.
 ## About me
-- 🫥 Pronouns: he/him, but I don't get offended easily.
-- 🎂 Birthday: 16th February!
-- 🍄 Fun Fact: This is the first time I've put my birthday on the internet.
+- 🫥 Pronouns: he/him
+- 🎂 Birthday: 16th February
 
 ## guthib
 ![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox&include_all_commits=true)
