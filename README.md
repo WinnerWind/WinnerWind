@@ -13,8 +13,9 @@ I'm just a regular 16 year old, armed with an internet connection, and a compute
 - 🎂 Birthday: 16th February
 
 ## guthib
-![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerwind&layout=compact&theme=gruvbox)
+[![WinnerWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerwind&theme=gruvbox&include_all_commits=true)](https://winnerwind.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerwind&layout=compact&theme=gruvbox)](https://winnerwind.in)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WinnerWind)](https://github.com/WinnerWind)
 
 <!--
 **WinnerWind/WinnerWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
