@@ -5,7 +5,7 @@
 <sub><p align="right">WinnerWind cc. 2025</p></sub>
 <h3>”””</h3>
 
-I'm just a regular 16 year old, armed with an internet connection, and a computer.
+I'm just a regular 17 year old, armed with an internet connection, and a computer.
 ## About me
 - Pronouns: he/him
 - Birthday: 16th February
